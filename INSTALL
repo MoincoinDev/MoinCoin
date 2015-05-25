@@ -1,0 +1,9 @@
+Building Moincoin
+
+See doc/readme-qt.rst for instructions on building Moincoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Moincoin.
+
+See doc/build-*.txt for instructions on building Moincoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Moincoin.
